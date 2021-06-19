@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Banking System</string>
+    <string name="view_users">View Users</string>
+    <string name="banking_system_application">Banking System Application</string>
+    <string name="phone_numebr">Phone numebr</string>
+    <string name="developed_by">Developed by</string>
+    <string name="banking_system">BANKING SYSTEM</string>
+    <string name="ifsc_code">IFSC Code</string>
+    <string name="account_no">Account No :</string>
+    <string name="transfer_money">Transfer money</string>
+</resources>
